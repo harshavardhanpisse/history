@@ -1,0 +1,47 @@
+.history-item {
+  list-style-type: none;
+}
+
+.item-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.time {
+  color: #475569;
+}
+
+.details-delete-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.details-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 40px;
+}
+
+.title {
+  color: #475569;
+}
+
+.domain-url {
+  color: #64748b;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.delete {
+  width: 20px;
+}
